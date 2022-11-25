@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GroupTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-25T22:09:00" hostname="DESKTOP-C61MFP5" time="0.284">
+  <properties/>
+  <testcase name="WHEN we try to add a person plus than 18" classname="GroupTest" time="0.284"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
